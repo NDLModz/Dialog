@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "zenx",
+      "password": "123456",
+      "expiry_time": "30/11/2025",
+      "device": "1",
+      "used": false,
+      "device_id": ""
+    },
+    {
+      "username": "vip", 
+      "password": "vip123",
+      "expiry_time": "31/12/2025",
+      "device": "5",
+      "used": false,
+      "device_id": ""
+    }
+  ]
+}
