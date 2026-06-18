@@ -1,7 +1,7 @@
 {
-  "update": true,
-  "text": "vui lòng update",
-  "button": "ok",
-  "url": "https://t.me/ADM_NDL",
+  "update": false,
+  "text": "Vui Lòng Update!",
+  "button": "Ok",
+  "url": "",
   "Version": "1.0"
 }
